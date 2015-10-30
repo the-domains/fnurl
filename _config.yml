@@ -1,0 +1,23 @@
+name: fnurl
+favicon: null
+layout_spectrum: 0.761643199250102
+typography_spectrum: 0.3103164865169674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.07868034951388836
+  lightness: 0.8658679795917124
+  saturation: 0.3647045916877687
+  rhythmicContrast: 0.39360339660197496
+purpose: []
