@@ -2,6 +2,7 @@ name: fnurl
 favicon: null
 layout_spectrum: 0.761643199250102
 typography_spectrum: 0.3103164865169674
+title: "fnurl's grid"
 cta:
   domain: null
   bucket: null
